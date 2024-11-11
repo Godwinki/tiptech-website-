@@ -13,10 +13,6 @@ TIP Healthtech is a web application designed to revolutionize healthcare deliver
    ```bash
    git clone https://github.com/Godwinki/tiphealth.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd tiphealth
-   ```
 
 
 ## Video Files
@@ -26,5 +22,3 @@ The following video files are essential for the application but should **not** b
 - `diagnosis.mp4` - Video for Disease Diagnosis service
 - `delivery.mp4` - Video for Home Medication Delivery service
 
-## Excluding Video Files from Git
-To exclude the video files from being uploaded to GitHub, create a `.gitignore` file in the root of your project (if it doesn't already exist) and add the following lines:
